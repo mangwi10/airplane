@@ -1,4 +1,6 @@
 import 'package:airplane/ui/pages/home_page.dart';
+import 'package:airplane/ui/pages/setting_page.dart';
+import 'package:airplane/ui/pages/wallet_page.dart';
 import 'package:airplane/ui/widgets/custom_bottom_navigation_item.dart';
 import 'package:flutter/material.dart';
 import 'package:airplane/shared/theme.dart';
